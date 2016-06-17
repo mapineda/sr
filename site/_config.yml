@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Marco Pineda's Resume
+description: marco pineda's resume
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+baseurl:
+url:
+rss_url:
+google_analytics:
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,127 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
+  name: Marco Pineda
+  title: PMP
+  address: St. Louis, MO
   email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  link:
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github:
+  linkedin:
+  twitter:
+  gavatar: /site/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: ABB Inc.
+      location: St. Louis, MO
+      title: JProject Manager | Equipment | Manufacture
+      started: 2010
+      duration: (2010 - Present)
+      description: Internal procedure compliance and processes improvement for increased customer satisfaction.
+Directed client kick-off meetings resulting in defined deliverables and established acceptance criteria.
+Coordinated and managed meetings with tactical team, functional managers and stakeholders.
+Created positive spirit of collaboration during the project executions.
+Provided alignment and direction to team members through reporting and action item updates.
+Maintained project schedules with critical-path execution strategy for on-time projects.
+Approved and monitored equipment vendor contracts for timely and under budget delivery.
+Facilitated start-up meetings with engineering and operations for scope validation, schedule release and thorough understanding of the contract deliverables.
+Issued RACI charts to ensuring clarity to team members on responsibilities and assignments.
+Participated in safety observation tours in compliance with the health and safety plan.
+Performed reverse engineering of high temperature gasket for furnace transformers.
+Developed a user-friendly application suitable for order entry management.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: ABB Inc.
+      location: St. Louis, MO
+      title: Strategic Marketing Manager | Project Manager | Customer Training Program PM
+      started: 2007
+      duration: (2007 - 2010)
+      description: Monitored, evaluated and reported on the performance of eight business units. Maintained business units marketing applications reporting monthly revenue to top executives. Acted as PM for a customer training program.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: ABB Inc.
+      location: St. Louis, MO
+      title: Marketing Technical Support | Sales Coordinator
+      started: 2003
+      duration: (2003 - 2007)
+      description: Instituted, simplified and standardized the order management system in 11 domestic & overseas business units. Coordinated sales efforts of two European factories in the Mexican Market. Provided field technical support to a South American factory during its first U.S. installation. Avoided back-charges by decisively resolving on-site claims. Prepared SWOT analysis for various factories. Coordinated and supported European factory sales efforts in the Mexican market with EPC companies. Managed data and participated in sales forecast for American and Canadian manufacturing plants.
+    - work4:
+      company: ABB Inc.
+      location: St. Louis, MO
+      title: Marketing Analyst | Database Manager
+      started: 2002
+      duration: (2002 - 2003)
+      description: Prepared marketing presentations and reports. Administered an internal order booking system for local and overseas plants for small, medium and large power transformers. Responsible for data integrity and completeness for the marketing database. Issued internal marketing reports using data-mining concept.
+    - work5:
+      company: ABB Inc.
+      location: St. Louis, MO
+      title: Sales Engineer | Business Segment Liaison
+      started: 2002
+      duration: (2002 - 2003)
+      description: Coordinated five power transformers manufacturing plants from overseas. Reached record sales in "Small Power".
+    - work6:
+      company: IEM SA de CV
+      location: Tlalnepantla Area, Mexico
+      title: Design and Development Manager
+      started: 1991
+      duration: (1991 - 1998)
+      description: Responsible for maintaining and updating applications for power transformer design in Fortran. Designed and supervised the construction of a multiple position bench for electrical motor testing. Recompiled transformers’ design programs from mainframe computer to workstation. Achieved considerable savings by replacing high-cost operating system.
+    - work7:
+      company: Engineering Firms
+      location: Mexico City Area, Mexico
+      title: Marketing Technical Support | Sales Coordinator
+      started: 1991
+      duration: (1991 - 1998)
+      description: Mexican Institute of Petroleum (IMP): Implemented FORTRAN application to calculate pressure vessels as per ASME Section VIII, Div 1 code. Improved throughput design time and provided multiple design options. Designed pressure vessels as per ASME Section VIII, Div. 1 code. Applied finite element analysis (FEA) to design oil pipe threads under API Spec 5B.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: Instituto Politécnico Nacional
+      location: Mexico City, Mexico
       degree: Bachelor
-      major: Software Engineering
+      major: Mechanical Engineering
       started: 2005
       duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description:
+    - education2:
+      organization: Instituto Politécnico Nacional
+      location: Mexico City, Mexico
+      degree: Masters of Science
+      major: Mechanical Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description:
+    - education3:
+      organization: Tecnológico de Monterrey
+      location: Monterrey, Mexico
+      degree: MBA
+      major: Masters of Business Administration, International Business
+      started: 2005
+      duration: (2005 - 2009)
+      description:
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
+      proficiency: Proficiency
+    - language2:
+      name: Spanish
+      proficiency: Native
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Italian
+      proficiency: Conversational
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Project Management
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Marketing
+      percentage: 95%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Engineering
+      percentage: 100%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Strategy
+      percentage: 95%
     - skill5:
-      name: Java/Java EE
+      name: Communication
       percentage: 90%
