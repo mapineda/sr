@@ -15,13 +15,13 @@ exclude: [vendor]
 # Author settings
 author:
   name: Marco Pineda
-  title: PMP
+  title: PMP, MBA, MSME
   address: St. Louis, MO
-  email: dongg.liang@gmail.com
+  email: mpch1991@yahoo.com
   link:
   weibo:
   github:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/mpinedapmp
   twitter:
   gavatar: /site/assets/img/avatar.JPG
   stackoverflow:
@@ -30,21 +30,10 @@ author:
     - work1:
       company: ABB Inc.
       location: St. Louis, MO
-      title: JProject Manager | Equipment | Manufacture
+      title: Project Manager | Equipment | Manufacture
       started: 2010
       duration: (2010 - Present)
-      description: Internal procedure compliance and processes improvement for increased customer satisfaction.
-Directed client kick-off meetings resulting in defined deliverables and established acceptance criteria.
-Coordinated and managed meetings with tactical team, functional managers and stakeholders.
-Created positive spirit of collaboration during the project executions.
-Provided alignment and direction to team members through reporting and action item updates.
-Maintained project schedules with critical-path execution strategy for on-time projects.
-Approved and monitored equipment vendor contracts for timely and under budget delivery.
-Facilitated start-up meetings with engineering and operations for scope validation, schedule release and thorough understanding of the contract deliverables.
-Issued RACI charts to ensuring clarity to team members on responsibilities and assignments.
-Participated in safety observation tours in compliance with the health and safety plan.
-Performed reverse engineering of high temperature gasket for furnace transformers.
-Developed a user-friendly application suitable for order entry management.
+      description: Internal procedure compliance and processes improvement for increased customer satisfaction. Directed client kick-off meetings resulting in defined deliverables and established acceptance criteria. Coordinated and managed meetings with tactical team, functional managers and stakeholders. Created positive spirit of collaboration during the project executions. Provided alignment and direction to team members through reporting and action item updates. Maintained project schedules with critical-path execution strategy for on-time projects. Approved and monitored equipment vendor contracts for timely and under budget delivery. Facilitated start-up meetings with engineering and operations for scope validation, schedule release and thorough understanding of the contract deliverables. Issued RACI charts to ensuring clarity to team members on responsibilities and assignments. Participated in safety observation tours in compliance with the health and safety plan. Performed reverse engineering of high temperature gasket for furnace transformers. Developed a user-friendly application suitable for order entry management.
     - work2:
       company: ABB Inc.
       location: St. Louis, MO
@@ -80,37 +69,30 @@ Developed a user-friendly application suitable for order entry management.
       started: 1991
       duration: (1991 - 1998)
       description: Responsible for maintaining and updating applications for power transformer design in Fortran. Designed and supervised the construction of a multiple position bench for electrical motor testing. Recompiled transformers’ design programs from mainframe computer to workstation. Achieved considerable savings by replacing high-cost operating system.
-    - work7:
-      company: Engineering Firms
-      location: Mexico City Area, Mexico
-      title: Marketing Technical Support | Sales Coordinator
-      started: 1991
-      duration: (1991 - 1998)
-      description: Mexican Institute of Petroleum (IMP): Implemented FORTRAN application to calculate pressure vessels as per ASME Section VIII, Div 1 code. Improved throughput design time and provided multiple design options. Designed pressure vessels as per ASME Section VIII, Div. 1 code. Applied finite element analysis (FEA) to design oil pipe threads under API Spec 5B.
   educationHistory:
     - education1:
       organization: Instituto Politécnico Nacional
       location: Mexico City, Mexico
       degree: Bachelor
       major: Mechanical Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      started: 1981
+      duration: (1981 - 1983)
       description:
     - education2:
       organization: Instituto Politécnico Nacional
       location: Mexico City, Mexico
       degree: Masters of Science
       major: Mechanical Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      started: 1983
+      duration: (1983 - 1985)
       description:
     - education3:
       organization: Tecnológico de Monterrey
       location: Monterrey, Mexico
       degree: MBA
       major: Masters of Business Administration, International Business
-      started: 2005
-      duration: (2005 - 2009)
+      started: 1995
+      duration: (1995 - 1997)
       description:
   languages:
     - language1:
@@ -127,14 +109,14 @@ Developed a user-friendly application suitable for order entry management.
       name: Project Management
       percentage: 100%
     - skill2:
-      name: Marketing
-      percentage: 95%
-    - skill3:
-      name: Engineering
-      percentage: 100%
-    - skill4:
-      name: Strategy
-      percentage: 95%
-    - skill5:
       name: Communication
       percentage: 90%
+    - skill3:
+      name: Strategy
+      percentage: 95%
+    - skill4:
+      name: Engineering
+      percentage: 100%
+    - skill5:
+      name: Marketing
+      percentage: 95%
